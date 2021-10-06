@@ -1,6 +1,8 @@
 # Flowrate-time-series-processing
 
 Repository for the source code of the computational aplication for the processing of unevenly spaced flowrate time series.
+![image](https://user-images.githubusercontent.com/92049028/136254287-ac893768-3b86-4b8c-a333-85bd5f472b1d.png)
+
 
 The application was developed in Python using Tkinter package. 
 
