@@ -12,5 +12,5 @@ A brief explanation of each file is given:
 	- helpv4.py contains the code for the help menu
 	- _____.png contains the logos of the R&D team
 	- Holidays.csv contains a list of holidays and can be edited by the user
-	- Série_teste_input.csv and 
+	- Série_teste_input.csv and Historico_15min_input.csv contains a raw timeseries and already processed flowrate timeseries. These files can be used to test the tool.
 
