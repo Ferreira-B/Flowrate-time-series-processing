@@ -11,5 +11,6 @@ A brief explanation of each file is given:
 	- functions_forecastv6.py contains the developed python functions for the reconstruction of flowrate timeseries
 	- helpv4.py contains the code for the help menu
 	- _____.png contains the logos of the R&D team
+	- Holidays.csv contains a list of holidays and can be edited by the user
 	- 
 
