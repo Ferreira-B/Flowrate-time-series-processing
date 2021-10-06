@@ -14,4 +14,4 @@ A brief explanation of each file is given:
 	- Holidays.csv contains a list of holidays and can be edited by the user
 	- Série_teste_input.csv and Historico_15min_input.csv contains a raw timeseries and already processed flowrate timeseries. These files can be used to test the tool.
 
-The Standalone software can be requested to the authors (bruno.s.ferreira@estbarreiro.ips.pt).
+The Standalone software can be downloaded using the following link: https://wisdom.ips.pt/static/validts/WISDom_1.0.2.zip
