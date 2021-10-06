@@ -10,4 +10,6 @@ A brief explanation of each file is given:
 	- functions_cleanv9.py contains the developed python functions for the validation of univenly spaced flowrate timeseries
 	- functions_forecastv6.py contains the developed python functions for the reconstruction of flowrate timeseries
 	- helpv4.py contains the code for the help menu
+	- _____.png contains the logos of the R&D team
+	- 
 
