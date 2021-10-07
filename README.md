@@ -18,3 +18,5 @@ A brief explanation of each file is given:
 	- requirements_specific.txt contains the list of python libraries and its associated version
 
 The Standalone software can be downloaded using the following link: https://wisdom.ips.pt/static/validts/WISDom_1.0.2.zip
+
+The datasets folder contains the flowrate datasets from three water utilities and they were used in the development and validation stages.
