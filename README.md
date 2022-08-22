@@ -46,7 +46,7 @@ A brief explanation of each file is given:
 - **icon.ico** contains the software icon;
 - **Holidays.csv** contains a list of holidays and can be edited by the user;
 - **Input.csv** and **Historic_records.csv** contain raw time series and already processed flowrate time series. These files can be used to test the tool;
-- **requirements.txt** contains the list of python libraries and their associated version.
+- **requirements.txt** contains the list of python libraries and their associated version;
 - The **datasets folder** contains the flowrate datasets from three water utilities and they were used in the development and validation stages.
 
 ## **Cite us**
