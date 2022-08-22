@@ -34,20 +34,20 @@ The User's manual can be accessed using the following link: https://github.com/F
 The application was developed in Python using the Tkinter package and the source code is currently hosted on GitHub at: https://github.com/Ferreira-B/Flowrate-time-series-processing
 
 A brief explanation of each file is given:
-- Manual.pdf contains the user's manual;
-- Research_paper.pdf contains the original research paper by Ferreira et al. (2022) upon which the software was developed;
-- GUI4.9.2.py contains the source code for the computer application;
-- functions_clean.py contains the developed python functions for the processing of unevenly spaced flowrate time series;
-- functions_forecast.py contains the developed python functions for the reconstruction of flowrate time series;
-- dictionary.csv contains the list of software terms in both English and Portuguese;
-- _____.png contains the logos of the R&D team;
-- icon.ico contains the software icon;
-- Holidays.csv contains a list of holidays and can be edited by the user;
-- Input.csv and Historic_records.csv contain raw time series and already processed flowrate time series. These files can be used to test the tool;
-- requirements.txt contains the list of python libraries and their associated version.
-- The datasets folder contains the flowrate datasets from three water utilities and they were used in the development and validation stages.
+- **Manual.pdf** contains the user's manual;
+- **Research_paper.pdf** contains the original research paper by Ferreira et al. (2022) upon which the software was developed;
+- **GUI4.9.2.py** contains the source code for the computer application;
+- **functions_clean.py** contains the developed python functions for the processing of unevenly spaced flowrate time series;
+- **functions_forecast.py** contains the developed python functions for the reconstruction of flowrate time series;
+- **dictionary.csv** contains the list of software terms in both English and Portuguese;
+- **_____.png** contains the logos of the R&D team;
+- **icon.ico** contains the software icon;
+- **Holidays.csv** contains a list of holidays and can be edited by the user;
+- **Input.csv** and **Historic_records.csv** contain raw time series and already processed flowrate time series. These files can be used to test the tool;
+- **requirements.txt** contains the list of python libraries and their associated version.
+- The **datasets folder** contains the flowrate datasets from three water utilities and they were used in the development and validation stages.
 
 ## **Cite us**
 
-Ferreira, B., Carriço, N., Barreira, R., Dias, T., & Covas, D. (2022). Flowrate time series processing in engineering tools for water distribution networks. Water Resources Research, 58, e2022WR032393. https://doi.org/10.1029/2022WR032393.
+>Ferreira, B., Carriço, N., Barreira, R., Dias, T., & Covas, D. (2022). Flowrate time series processing in engineering tools for water distribution networks. Water Resources Research, 58, e2022WR032393. https://doi.org/10.1029/2022WR032393.
 
