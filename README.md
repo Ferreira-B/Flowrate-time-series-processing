@@ -51,5 +51,5 @@ A brief explanation of each file is given:
 
 ## **Cite us**
 
->Ferreira, B., Carriço, N., Barreira, R., Dias, T., & Covas, D. (2022). Flowrate time series processing in engineering tools for water distribution networks. Water Resources Research, 58, e2022WR032393. https://doi.org/10.1029/2022WR032393.
+>[Ferreira, B., Carriço, N., Barreira, R., Dias, T., & Covas, D. (2022). Flowrate time series processing in engineering tools for water distribution networks. Water Resources Research, 58, e2022WR032393.](https://doi.org/10.1029/2022WR032393)
 
