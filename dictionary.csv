@@ -1,0 +1,136 @@
+id,pt,en
+0,WISDom,WISDom
+1,Carregado ,Uploaded
+2,Dados carregados,Data uploaded
+3,Dados históricos carregados,Historical data uploaded
+4,Ferramenta para o processamento de séries temporais de caudal,Flowrate time series processing tool
+5,Importar,Import
+6,Sair,Exit
+7,Ficheiro ,File
+8,Identificação e remoção de falhas,Anomaly identification and removal
+9,Reconstrução de falhas de curta duração,Short-duration gap reconstruction
+10,Normalização temporal,Time step normalization
+11,Reconstrução de falhas de longa duração,Long-duration gap reconstruction
+12,Ferramentas,Tools
+13,Ajuda,Help
+14,Sobre,About
+15,Remover valores anómalos,Remove anomalous values
+16,Avançar,Next
+17,Janela temporal (s),Time window (s)
+18,Limpar dados,Clear data
+19,Exportar dados,Export data
+20,Exportado,Exported
+21,Dados exportados,Data exported
+22,Série temporal original ,Original time series
+23,Valores anormalmente altos,Abnormally high values
+24,Valores anormalmente baixos,Abnormally low values
+25,Patamares estáticos,Flat lines
+26,Série temporal com valores anómalos identificados,Time series with identified anomalous values 
+27,Visualizar gráficos,Show graphs
+28,Caudal,Flowrate
+29,Estatistica descritiva do espaçamento entre medições,Analysis of the spacing between measurements
+30,Estatistica descritiva das medições de caudal,Flowrate analysis
+31,Contagem,Count
+32,Média,Average
+33,Dsv.Pdr.,Std. Deviation
+34,Mínimo,Minimun
+35,Máximo,Maximun
+36,Histograma espaçamento,Spacing histogram
+37,Histograma caudal,Flowrate histogram
+38,Gradiante,Rate of change
+39,Diferença,Difference
+40,Pontos em patamar,Flat line values
+41,Negativos,Negative
+42,Valores anormalmente altos,Abnormally high values
+43,Valores anormalmente baixos,Abnormally low values
+44,Valores em patamar,Values in flat line
+45,Contagem,Count
+46,Dupl. exato,Dup. equal
+47,Dupl. differente,Dup. different
+48,Leituras nulas,Null measurements
+49,Total,Total
+50,NA,NA
+51,NA,NA
+52,Separar falhas de curta e longa duração, Short and long-duration gap separation
+53,Reconstrução de falhas de curta duração,Short-duration gap reconstruction
+54,Interpolação linear,Linear interpolation
+55,Interpolação polinomial,Polynomial interpolation
+56,Serie temporal com identificação de falhas de curta e longa duração,Time series with identified short and long duration gaps 
+57,Seria temporal com falhas de curta duração reconstruidas,Time series with reconstructed short duration gaps 
+58,Falhas,Gaps
+59,Contagem,Count
+60,Medições,Measurements
+61,Medições com falha,Anomalous measurements
+62,Falhas de curta duração,Short duration gaps 
+63,Falhas de longa duração,Long duration gaps 
+64,Método de reconstrução,Reconstruction method
+65,Falhas de curta duração,Short duration gaps
+66,Criar espaçamento uniforme e identificar periodos sem medição,Create uniform spacing and identify periods without measurements
+67,Criar espaçamento uniforme,Create uniform spacing
+68,Espaçamento (s),Spacing (s)
+69,Duração mínima de periodo longo sem medições(s),Minimum duration of long period without measurements (s)
+70,Série temporal com identificação do espaçamento uniforme,Time series with identification of uniform spacing 
+71,Espaçamento uniforme,Uniform spacing
+72,Periodo sem medição,Period without measurements
+73,Periodos sem medição,Periods without measurements
+74,Série temporal após normalização temporal,Time series after time step normalization
+75,Importar dados históricos,Import historical data
+76,Decomposição da sazonalidade dos dados históricos,Historical data seasonal decomposition
+77,Série em processamento e dados históricos,Time series being processed and historical data
+78,Diagrama de caixa ao nível de cada passo de tempo (Todos os dias),Boxplot for each time step (all days)
+79,Diagrama de caixa ao nível de cada passo de tempo (dias da semana vs fins de semana),Boxplot for each time step (weekdays vs weekends)
+80,Diagrama de caixa ao nível de cada dia dos dados históricos,Boxplot for each day in the historical data
+81,Diagrama de caixa ao nível de cada dia da semana,Boxplot for each week day
+82,Decomposição da sazonalidade,Seasonality decomposition
+83,Série processada,Processed time series
+84,Valores em processamento,Values being processed
+85,Valores em falta,Missing values
+86,Valores nos dados históricos,Values in historical data
+87,Valores em falta,Missing values
+88,Diagrama de caixa ao nível de cada passo de tempo (dias da semana vs fins de semana),Boxplot for each time step (weekdays vs weekends)
+89,Dia de semana,Week day
+90,Fim-de-semana,Weekend
+91,Periodo de sazonalidade,Seasonality time course
+92,Método de decomposição,Decomposition method
+93,Série temporal com falhas de longa duração preenchidas,Time series with reconstructed long duration gaps
+94,Linguagem,Language
+95,Threshold (unidade de caudal/s), Threshold (flowrate unit/s)
+96,Threshold,Threshold
+97,Manual de utilizador,User's Manual
+98,"Aplicação desenvolvida no âmbito do projeto de investigação WISDom e da tese de doutoramento do Bruno Ferreira. 
+
+ Desenvolvido e mantido por: 
+ Bruno Ferreira (bruno.s.ferreira@estbarreiro.ips.pt) 
+ Tiago Gonçalves Dias 
+ 
+ Coordenação: 
+ Prof. Dídia Covas 
+ Prof. Nelson Carriço 
+ Prof. Raquel Barreira 
+
+ Contributos: 
+ Prof. Conceição Amado 
+ André Antunes 
+ Carlos Ascensão 
+ Ricardo Sousa","Application developed within the scope of WISDom research project and Bruno Ferreira's doctoral thesis. 
+ 
+ Developed and maintained by: 
+ Bruno Ferreira (bruno.s.ferreira@estbarreiro.ips.pt) 
+ Tiago Gonçalves Dias 
+ 
+ Coordination: 
+ Prof. Dídia Covas 
+ Prof. Nelson Carriço 
+ Prof. Raquel Barreira 
+
+ Contributions: 
+ Prof. Conceição Amado 
+ André Antunes 
+ Carlos Ascensão 
+ Ricardo Sousa 
+ Carolina Rodrigues"
+ 99,Deseja descarregar o manual de utilizador através do endereço https://wisdom.ips.pt/manual ?, Download the user's manual using the link https://wisdom.ips.pt/manual ?
+100,Descarregar manual, Download manual 
+101,Limpar tudo,Clear all
+102,Threshold (unidade de caudal), Threshold (flowrate unit)
+103,Artigo de investigação,Research paper
