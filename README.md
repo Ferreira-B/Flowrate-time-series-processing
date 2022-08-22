@@ -21,7 +21,7 @@ The standalone application for Windows OS can be downloaded using the following 
 ![image](https://user-images.githubusercontent.com/92049028/185946163-bb420944-a4f3-4537-8a1e-303db2a6a93f.png)
 
 ### **Documentation**
-
+The User's manual can be accessed using the following link: https://github.com/Ferreira-B/Flowrate-time-series-processing/raw/main/Manual.pdf
 
 ### **Source code**
 
