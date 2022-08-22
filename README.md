@@ -50,6 +50,16 @@ A brief explanation of each file is given:
 - The **datasets folder** contains the flowrate datasets from three water utilities and they were used in the development and validation stages.
 
 ## **Cite us**
-
+If you have used our software for research purposes, you can cite our publication by:
 >[Ferreira, B., Carriço, N., Barreira, R., Dias, T., & Covas, D. (2022). Flowrate time series processing in engineering tools for water distribution networks. Water Resources Research, 58, e2022WR032393.](https://doi.org/10.1029/2022WR032393)
 
+## **Contact**
+[Bruno Ferreira](https://orcid.org/0000-0002-2863-7949)
+
+bruno.s.ferreira [at] estbarreiro.ips.pt
+
+Instituto Politécnico de Setúbal 
+
+Escola Superior de Tecnologia do Barreiro
+
+Lavradio, Setúbal, Portugal
