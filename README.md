@@ -16,7 +16,7 @@ The Flowrate time series processing tool presents a modular structure. Thus, it 
 ### **Where to get it**
 
 
-The standalone application for Windows OS can be downloaded using the following link: https://wisdom.ips.pt/static/validts/WISDom_1.1.0.zip
+The standalone application for Windows OS can be downloaded using the following link: https://github.com/Ferreira-B/Flowrate-time-series-processing/releases/download/status/WISDom_1.1.0.zip
 
 ![image](https://user-images.githubusercontent.com/92049028/185946163-bb420944-a4f3-4537-8a1e-303db2a6a93f.png)
 
